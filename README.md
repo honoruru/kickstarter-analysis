@@ -8,7 +8,7 @@ The project is an effort to assist Louise in her planning to produce her play.  
 ### **Purpose**
 The purpose of the project is to assist Louise in planning for a play which she would like to produce.  Specifically, Louise seeks to examine how different campaigns’ launch dates and funding goals might influence their success.  This project seeks to inform Louise on this question. 
 
-##**Analysis and Challenges**
+## **Analysis and Challenges**
 The analysis was performed following techniques and requirements as directed by the Module 1 Challenge. The primary challenge was the uncertainty of whether the analytical steps were to be limited by the exact requirements of Module 1 Challenge; or, if there was an expectation that the writer use techniques learned in Module 1 that went beyond the specified requirements.  As grading points did not appear to be awarded for quality of results, the writer stayed within the specified requirements.  Secondary challenges included correctly developing the tables, pivot tables, and graphs as required.  When not successful, the writer sought solutions using Excel Help and Google searches.  
 ### **Analysis of Outcomes Based on Launch Date**
 Data for launch months for all plays, all countries, and all years was analyzed.  The data is depicted graphically below: 
@@ -33,7 +33,7 @@ As illustrated in the graph above, based on Goal, plays with goals up to $14,999
 ### Limitations of this dataset
 As noted, this analysis makes the extraordinary assumption that the data is reasonably complete and accurate, and therefore reliable.  Data on the amount of pledges received and total actual costs of each production would have been useful.  The writer believes that data may be as, if not more, relevant to success than crowdfunding goals and pledges. 
 
-###Other Possible Tables and/or Graphs
+### Other Possible Tables and/or Graphs
 If it was known what country Louise’s play would be in, graphs filtered to that country could be informative.  If she has yet to decide, graphs by country might inform her on notable differences of success rates by country.  Additional, if one accepts that the early summer months favor success, a graph of the success rates of those months over the years world indicate whether that has held true over time. 
 
 
