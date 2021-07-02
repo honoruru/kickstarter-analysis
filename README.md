@@ -12,7 +12,7 @@ The purpose of the project is to assist Louise in planning for a play which she 
 The analysis was performed following techniques and requirements as directed by the Module 1 Challenge. The primary challenge was the uncertainty of whether the analytical steps were to be limited by the exact requirements of Module 1 Challenge; or, if there was an expectation that the writer use techniques learned in Module 1 that went beyond the specified requirements.  As grading points did not appear to be awarded for quality of results, the writer stayed within the specified requirements.  Secondary challenges included correctly developing the tables, pivot tables, and graphs as required.  When not successful, the writer sought solutions using Excel Help and Google searches.  
 ### **Analysis of Outcomes Based on Launch Date**
 Data for launch months for all plays, all countries, and all years was analyzed.  The data is depicted graphically below: 
-[Outcomes_by_Launch](honoruru.github.com/repository/img/Theater_Outcomes_vs_Launch.png) 
+![Outcomes_by_Launch](https://github.com/honoruru/kickstarter-analysis/blob/main/Outcomes%20by%20Launch%20Date.png) 
 ### *Analysis of Outcomes Based on Goals*
 Data for crowdfunding goals for all plays, all countries, and all years was analyzed.  The data is depicted graphically below:
 [Outcomes_by_Goads](honoruru.github.com/repository/img/Outcomes_vs_Goals.png 
