@@ -34,6 +34,6 @@ As illustrated in the graph above, based on Goal, plays with goals up to $14,999
 As noted, this analysis makes the extraordinary assumption that the data is reasonably complete and accurate, and therefore reliable.  Data on the amount of pledges received and total actual costs of each production would have been useful.  The writer believes that data may be as, if not more, relevant to success than crowdfunding goals and pledges. 
 
 ### Other Possible Tables and/or Graphs
-If it was known what country Louise’s play would be in, graphs filtered to that country could be informative.  If she has yet to decide, graphs by country might inform her on notable differences of success rates by country.  Additional, if one accepts that the early summer months favor success, a graph of the success rates of those months over the years world indicate whether that has held true over time. 
+If it was known what country Louise’s play would be in, graphs filtered to that country could be informative.  If she has yet to decide, graphs by country might inform her on notable differences of success rates by country.  Additional, if one accepts that the early summer months favor success, a graph of the success rates of those months over the years would indicate whether that has held true over time. 
 
 
