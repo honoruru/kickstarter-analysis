@@ -15,7 +15,7 @@ Data for launch months for all plays, all countries, and all years was analyzed.
 ![Outcomes_by_Launch](https://github.com/honoruru/kickstarter-analysis/blob/main/Outcomes%20by%20Launch%20Date.png) 
 ### *Analysis of Outcomes Based on Goals*
 Data for crowdfunding goals for all plays, all countries, and all years was analyzed.  The data is depicted graphically below:
-[Outcomes_by_Goads](honoruru.github.com/repository/img/Outcomes_vs_Goals.png 
+![Outcomes_by_Goals](https://github.com/honoruru/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 In addition to the challenges mentioned above, the time available to digest the material was impacted by the writer having a full-time job and a family to care for.  This will be overcome with adjustments to daily and weekly routines and finding a rhythm.  Further, being from a much older generation than the instructor, the writer continues to take time to get used to his speed of speaking and intonation.  Both of these challenges are viewed as natural.  The instructor provides multiple channels to receive the materials beyond live instruction which have proven to be helpful. 
